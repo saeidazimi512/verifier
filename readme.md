@@ -1,4 +1,4 @@
-# contract-verifier
+#"func-js-bin-0.4.3": "npm:@ton-community/func-js-bin@^0.4.3",
 
 A UI app to display verified contract proofs and to submit Ton smart contract sources for on-chain verification.
 
